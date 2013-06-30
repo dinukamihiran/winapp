@@ -1,0 +1,11 @@
+c:\users\dinuka\documents\visual studio 2010\Projects\multiform\multiform\bin\Debug\multiform.exe
+c:\users\dinuka\documents\visual studio 2010\Projects\multiform\multiform\bin\Debug\multiform.pdb
+c:\users\dinuka\documents\visual studio 2010\Projects\multiform\multiform\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dinuka\documents\visual studio 2010\Projects\multiform\multiform\obj\x86\Debug\multiform.Properties.Resources.resources
+c:\users\dinuka\documents\visual studio 2010\Projects\multiform\multiform\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dinuka\documents\visual studio 2010\Projects\multiform\multiform\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dinuka\documents\visual studio 2010\Projects\multiform\multiform\obj\x86\Debug\multiform.exe
+c:\users\dinuka\documents\visual studio 2010\Projects\multiform\multiform\obj\x86\Debug\multiform.pdb
+C:\Users\Dinuka\Documents\Visual Studio 2010\Projects\multiform\multiform\obj\x86\Debug\SLPA.Form1.resources
+C:\Users\Dinuka\Documents\Visual Studio 2010\Projects\multiform\multiform\obj\x86\Debug\SLPA.Form2.resources
+C:\Users\Dinuka\Documents\Visual Studio 2010\Projects\multiform\multiform\obj\x86\Debug\SLPA.Form3.resources
