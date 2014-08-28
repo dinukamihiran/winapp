@@ -58,7 +58,7 @@ namespace SLPA
 
             if (result1 == DialogResult.Yes)
             {
-                string connectionString = "SERVER= slpa.fit11.tk;" +
+                string connectionString = "SERVER= localhost;" +
                    "DATABASE=syscall;" +
                    "UID= syscall;" +
                    "PASSWORD= syscall123;";
