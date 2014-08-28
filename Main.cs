@@ -87,7 +87,7 @@ namespace SLPA
         //define a method for forn load
         private void methodload()
         {
-            /*string connectionString = "SERVER= slpa.knnect.com;" +
+            /*string connectionString = "SERVER= localhost;" +
                   "DATABASE=syscall;" +
                   "UID= syscall;" +
                   "PASSWORD= syscall123;";*/
@@ -112,7 +112,7 @@ namespace SLPA
         {
             if (searchtextBox.Text != "")
             {
-              /*  string connectionString = "SERVER= slpa.knnect.com;" +
+              /*  string connectionString = "SERVER= localhost;" +
                    "DATABASE=syscall;" +
                    "UID= syscall;" +
                    "PASSWORD= syscall123;";
@@ -264,7 +264,7 @@ namespace SLPA
         //method for update
         private void methodAfterUpdate()
         {
-            /*string connectionString = "SERVER= slpa.knnect.com;" +
+            /*string connectionString = "SERVER= localhost;" +
                    "DATABASE=syscall;" +
                    "UID= syscall;" +
                    "PASSWORD= syscall123;";
@@ -371,7 +371,7 @@ namespace SLPA
 
             if (result1 == DialogResult.Yes)
             {
-               /* string connectionString = "SERVER= slpa.knnect.com;" +
+               /* string connectionString = "SERVER= localhost;" +
                    "DATABASE=syscall;" +
                    "UID= syscall;" +
                    "PASSWORD= syscall123;";
@@ -533,7 +533,7 @@ namespace SLPA
         //get latitude and longitude
      /*   private void getLatitudeLongitude()
         {
-            string connectionString = "SERVER= slpa.knnect.com;" +
+            string connectionString = "SERVER= localhost;" +
                    "DATABASE=syscall;" +
                    "UID= syscall;" +
                    "PASSWORD= syscall123;";
@@ -601,7 +601,7 @@ namespace SLPA
         }
         private void add1(String coodinate)
         {
-          /*  string connectionString = "SERVER= slpa.knnect.com;" +
+          /*  string connectionString = "SERVER= localhost;" +
                   "DATABASE=syscall;" +
                   "UID= syscall;" +
                   "PASSWORD= syscall123;";
@@ -637,7 +637,7 @@ namespace SLPA
         //
         private void comboBoxDestinationSelection_SelectedIndexChanged(object sender, EventArgs e)
         {
-            /*string connectionString = "SERVER= slpa.knnect.com;" +
+            /*string connectionString = "SERVER= localhost;" +
                     "DATABASE=syscall;" +
                     "UID= syscall;" +
                     "PASSWORD= syscall123;";
