@@ -18,7 +18,7 @@ namespace SLPA
             InitializeComponent();
         }
         //mysql
-        static string connectionString = "SERVER= slpa.knnect.com;" +
+        static string connectionString = "SERVER= localhost;" +
                  "DATABASE=syscall;" +
                  "UID= syscall;" +
                  "PASSWORD= syscall123;";
