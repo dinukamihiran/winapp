@@ -49,7 +49,7 @@ namespace SLPA
 
                     if (result1 == DialogResult.Yes)
                     {
-                        string connectionSQL = "server=slpa.fit11.tk;user id=syscall;password=syscall123;database=syscall;";
+                        string connectionSQL = "server=localhost;user id=syscall;password=syscall123;database=syscall;";
                         MySqlConnection conn = new MySqlConnection(connectionSQL);
 
                         try
