@@ -19,7 +19,7 @@ namespace SLPA
             textBoxDriverName.Text = name;
             vehicletxt.Text = vehicleNumber;
         }
-        static string connectionString = "SERVER= slpa.knnect.com;" +
+        static string connectionString = "SERVER= localhost;" +
                  "DATABASE=syscall;" +
                  "UID= syscall;" +
                  "PASSWORD= syscall123;";
@@ -54,7 +54,7 @@ namespace SLPA
 
             if (result1 == DialogResult.Yes)
             {
-                string connectionSQL = "server=slpa.knnect.com;user id=syscall;password=syscall123;database=syscall;";
+                string connectionSQL = "server=localhost;user id=syscall;password=syscall123;database=syscall;";
                 MySqlConnection conn = new MySqlConnection(connectionSQL);
 
                 try
@@ -91,7 +91,7 @@ namespace SLPA
         //
        /* private void getLatitudeLongitude()
         {
-          /*  string connectionString = "SERVER= slpa.fit11.tk;" +
+          /*  string connectionString = "SERVER= localhost;" +
                   "DATABASE=syscall;" +
                   "UID= syscall;" +
                   "PASSWORD= syscall123;";
